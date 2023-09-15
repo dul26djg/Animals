@@ -1,0 +1,67 @@
+/*Asi se escribe un comentario*/
+body{
+    background-color:burlywood;
+    color: rgb(173, 15, 54);
+    font-family:'Lora', serif;
+}
+
+h1 {
+    color: rgb(221, 107, 174);
+}
+
+h3{
+    color:rgb(101, 135, 207)
+}
+
+ol{
+    color: rgb(8, 8, 8);
+}
+
+ul{
+    color: rgb(0, 0, 0);
+}
+
+p{
+    color: rgb(196, 93, 93);
+}
+
+.img1{
+    width: 400px;
+    height: 300px;
+    border-style: double;
+    border-color:rgb(102, 41, 160);
+    border-width: 10px;
+    padding: 10px;
+}
+
+.img2{
+    width: 400px;
+    height: 300px;
+    border-style: double;
+    border-color:rgb(72, 123, 199);
+    border-width: 10px; 
+    padding: 10px;
+}
+
+.img3{
+    width: 550px;
+    height: 350px;
+    border-style:dotted;
+    border-color:rgb(199, 127, 44);
+    border-width: 15px;
+    padding: 10px;
+}
+
+.img4{
+    width: 500px;
+    height: 350px;
+    border-style: dotted;
+    border-color:rgb(74, 163, 204);
+    border-width: 10px;
+    padding: 10px;
+}
+
+small{
+    color: black;
+    
+}
