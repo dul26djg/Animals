@@ -43,23 +43,6 @@ p{
     padding: 10px;
 }
 
-.img3{
-    width: 550px;
-    height: 350px;
-    border-style:dotted;
-    border-color:rgb(199, 127, 44);
-    border-width: 15px;
-    padding: 10px;
-}
-
-.img4{
-    width: 500px;
-    height: 350px;
-    border-style: dotted;
-    border-color:rgb(74, 163, 204);
-    border-width: 10px;
-    padding: 10px;
-}
 
 small{
     color: black;
